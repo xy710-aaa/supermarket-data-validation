@@ -1,0 +1,11 @@
+OrderID,Date,Product,Category,Quantity,UnitPrice,TotalPrice
+1001,2024-01-15,Apple,Fruit,10,5.0,50.0
+1002,2024-01-16,Banana,Fruit,5,3.0,15.0
+1003,2024-01-17,Milk,Dairy,20,2.5,50.0
+1004,2024-01-18,Bread,Bakery,15,4.0,60.0
+1005,2024-01-19,Apple,Fruit,8,5.0,40.0
+1006,2024-01-20,Yogurt,Dairy,,3.5,35.0
+1007,2024-01-21,Cheese,Dairy,10,8.0,80.0
+1008,2024-01-22,Orange,Fruit,12,4.5,54.0
+1009,2024-01-23,Egg,Dairy,30,0.5,15.0
+1010,2024-01-24,Butter,Dairy,5,6.0,30.0
